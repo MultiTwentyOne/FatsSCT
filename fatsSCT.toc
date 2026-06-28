@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: fatsSCT |cffff8800(Scrolling Combat Text)|r
+## Notes: Lightweight Mik's-Scrolling-Battle-Text-style combat text for vanilla / Turtle / Octo WoW.
+## Author: Michael
+## Version: 0.5
+## SavedVariables: fatsSCTDB
+
+Core.lua
+Parser.lua
+Notify.lua
+Auras.lua
+Config.lua
